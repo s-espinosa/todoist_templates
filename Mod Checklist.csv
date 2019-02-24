@@ -1,6 +1,8 @@
 ﻿TYPE,CONTENT,PRIORITY,INDENT,AUTHOR,RESPONSIBLE,DATE,DATE_LANG,TIMEZONE
 task,Intermission,4,1,Salvador (21773288),,,en,America/Denver
 ,,,,,,,,
+task,Pull tasks from Level Up checklist,4,2,Salvador (21773288),,,en,America/Denver
+,,,,,,,,
 task,Draft inning priorities for BE team,4,2,Salvador (21773288),,,en,America/Denver
 ,,,,,,,,
 task,Draft inning BE meeting agendas,4,2,Salvador (21773288),,,en,America/Denver
